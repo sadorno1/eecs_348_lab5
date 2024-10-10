@@ -3,6 +3,9 @@
 # KUID: 3147214
 # LAB Assignment: 05
 # Description: Give 12 monthly sales figures in an input file and generate reports 
+# Note: I didn't know who the TA for this lab was, because it switched a couple times but I wasn't able to go because I had a conference.
+I have a university excuse absence, and I wanted to know who to send it to to not lose attendance points, and in case I don't follow
+something they said to do in the lab, because I wasn't there. Thank you!
 */
 
 #include <stdio.h>
